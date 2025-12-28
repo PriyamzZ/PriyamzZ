@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experimental thin film semiconductor physicist digging into growth studies, structure property relationships, and surface behavior.<br><br>I spend most of my lab time with deposition techniques, characterization tools, and whatever measurement setup decides to behave that day.<br><br>Recently started exploring machine learning as a way to ease materials discovery and take care of messy experimental data.
+Experimental thin film semiconductor physicist digging into growth studies, structure property relationships, and surface behavior.<br><br>I spend most of my lab time with deposition techniques, characterization tools, and whatever measurement setup decides to behave that day.<br><br>Recently started exploring machine learning as a way to ease materials discovery but right now browsing some beginner friendly projects to warm my hands .
 
 
 ## 🌐 Socials:
